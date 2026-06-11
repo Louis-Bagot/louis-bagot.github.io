@@ -16,7 +16,7 @@ I am an engineer in Applied Mathematics from INSA Rouen and I completed my Ph.D 
 # Research Interests
 
 My main research interest is **Reinforcement Learning** (RL), where an *agent* interacts in an *environment* and needs to maximize *reward* through trial-and-error.
-I aim to train general agent which can adapt to any task and problem, which I tackle through the self-supervised learning of general skills and representations. 
+I aim to train general agents that can adapt to any task and problem, which I tackle through the self-supervised learning of general skills and representations. 
 My fields of study are the following:
 
 - **Task Transfer and Zero-Shot RL** centers around the learning of *Behavioral Foundation Models*: models that can produce optimal policies for any task, while training without rewards. I am interested in the theoretical foundations of skills and representations, the training of the models, their usage and transfer potential, their interpretability, and their composition through Hierarchical RL and planning.
@@ -36,7 +36,7 @@ At the Master level I mainly teach the foundations of Artificial Intelligence, i
 
 At the License level I teach most of the foundations of Computer Science: programming and algorithms, data structures, web and networking. I would be very interested in teaching the more theoretical aspects of scientific calculation and applied mathematics: linear algebra, optimization, simulation, probabilities and statistics.
 
-Check out the [Teaching page](teaching.html) for courses I currently teach, and my [CV page](cv.md) for an overview of all my teaching experience.
+Check out the [Teaching page](teaching.html) for courses I currently teach and an overview of my past teaching experiences.
 
 # Academic training
 See the [CV page](cv.md) for a more in-depth detail of my academic background.
