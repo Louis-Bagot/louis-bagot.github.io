@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Temporary Assistant Professor-Researcher (ATER) at Université Claude Bernard Lyon 1, researching at laboratory LIRIS within the SyCoSMA team and teaching in the Informatics department. 
+I am currently a Temporary Assistant Professor-Researcher (ATER) at Université Lyon 1 in France, researching within laboratory LIRIS within the SyCoSMA team and teaching in the Informatics department. 
 
-Prior to this, I completed my Ph.D and a post-doc at the University of Antwerp in Belgium, at laboratories IDLab and imec.
+This 2026-2027 academic year I am responsible for the Machine Learning course in the Artificial Intelligence Master of the Informatics department of Université Lyon 1, "*Techniques d'Apprentissage Automatique*". If you are looking for information about this course, please check out the dedicated [Teaching page](teaching.html). 
+
+I am an engineer in Applied Mathematics from INSA Rouen and I completed my Ph.D in Computer Science at the University of Antwerp in Belgium, within laboratories IDLab and imec.
 
 # Research Interests
 
@@ -30,13 +32,11 @@ My fields of study are the following:
 - **Deep Learning** is the basis of current state-of-the-art through the training of deep neural networks as function approximators; from that perspective most of my research is *Deep Reinforcement Learning*.
 
 # Teaching
-This 2026-2027 academic year I am responsible for the Machine Learning course in the Artificial Intelligence Master of the Informatics department of Université Lyon 1. If you are looking for information about this course, please check out the [Teaching page](teaching.html). 
-
----
-
 At the Master level I mainly teach the foundations of Artificial Intelligence, in particular through data and learning: Data Science, Machine Learning, Deep Learning and Reinforcement Learning. 
 
 At the License level I teach most of the foundations of Computer Science: programming and algorithms, data structures, web and networking. I would be very interested in teaching the more theoretical aspects of scientific calculation and applied mathematics: linear algebra, optimization, simulation, probabilities and statistics.
+
+Check out the [Teaching page](teaching.html) for courses I currently teach, and my [CV page](cv.md) for an overview of all my teaching experience.
 
 # Academic training
 See the [CV page](cv.md) for a more in-depth detail of my academic background.
@@ -51,6 +51,3 @@ I completed my PhD at the University of Antwerp from 2020 to 2024 at IDLab under
 ### Engineer in Applied Mathematics
 I completed my training as an engineer at INSA Rouen from 2014 to 2019, with a specialty in Applied Mathematics. I studied a semester at Bishop's University in Sherbrooke, Canada, to learn Machine Learning. 
 I realized my engineering internship as a research engineer at EDF, where I studied the optimization of the layout of a nuclear power plant through Deep Evolutionary Algorithms. 
-
-
-[def]: test
