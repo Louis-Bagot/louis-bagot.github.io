@@ -3,7 +3,7 @@ title: "Successor Clusters: A Behavior Basis for Unsupervised Zero-Shot Reinforc
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07_successor-clusters
-excerpt: 'Useless?'
+excerpt: 'We introduce a novel method for unsupervised zero-shot RL based on the partitioning of the state space into clusters of temporal proximity. We employ the Successor Feature framework, which allows us to train a general policy and visualize the expected optimal trajectories. We achieve state-of-the-art zero-shot performance for SF-based methods on MuJoCo tasks.'
 date: 2025-07-11
 venue: 'Transactions on Machine Learning Research'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'

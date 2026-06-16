@@ -3,7 +3,7 @@ title: "Learning intrinsically motivated options to stimulate policy exploration
 collection: publications
 category: conferences
 permalink: /publication/2020-05_intrinsically_motivated
-excerpt: 'Useless?'
+excerpt: 'We study intrinsic motivation for exploration in RL and propose an aternative to the wide-spread approach of a weighted sum of rewards. We show that decoupling exploration and exploitation through different agents enables to scale to multiple intrinsic rewards, ignore harmful signals and improve task transfer. We propose to switch between agents through an Explore Option (an additional to call the Explorer agent), leading to exploration-focused Hierarchical RL.'
 date: 2020-05-01
 venue: '4th Lifelong Machine Learning Workshop at ICML 2020'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'

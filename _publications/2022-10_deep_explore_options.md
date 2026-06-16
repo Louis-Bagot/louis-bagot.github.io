@@ -3,7 +3,7 @@ title: "Deep Learning of Intrinsically Motivated Options in the Arcade Learning 
 collection: publications
 category: conferences
 permalink: /publication/2022-10_deep_explore_options
-excerpt: 'Useless?'
+excerpt: 'We extend Explore Options for Deep Reinforcement Learning, adapting the algorithms for neural-network-based function approximation through the off-policy training of multi-headed neural networks. We provide a clear framework on the different choices of combination of intrinsic and extrinsic rewards. We evaluate the methods on challenging Atari exploration games.'
 date: 2022-10-01
 venue: 'Deep Reinforcement Learning Workshop NeurIPS 2022'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'

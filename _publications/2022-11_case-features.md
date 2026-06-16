@@ -3,7 +3,7 @@ title: "A Case for Representation-Based Successor Features for Transfer in Reinf
 collection: publications
 category: conferences
 permalink: /publication/2022-11_case-features
-excerpt: 'Useless?'
+excerpt: 'Successor Features propose to linearly decompose the reward function through a basis of rewards or features, but leave the exact features undefined. We study different possible types of features and their impact on learning and task representation.'
 date: 2022-10-01
 venue: 'BNAIC/BeNeLearn 2022'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
