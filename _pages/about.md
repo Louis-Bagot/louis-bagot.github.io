@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Temporary Assistant Professor-Researcher (ATER) at Université Lyon 1 in France, researching within laboratory LIRIS within the SyCoSMA team and teaching in the Informatics department. 
+I am currently a Postdoc at Université Lyon 1 in France, researching within laboratory LIRIS within the SyCoSMA team and teaching in the Informatics department. 
 
 This 2026-2027 academic year I am responsible for the Machine Learning course in the Artificial Intelligence Master of the Informatics department of Université Lyon 1, "*Techniques d'Apprentissage Automatique*". If you are looking for information about this course, please check out the dedicated [Teaching page](teaching.html). 
 
